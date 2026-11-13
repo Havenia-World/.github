@@ -1,5 +1,4 @@
 # The Official Havenia GitHub Account
-
 <h4>Hello World Havenia#2025-present is Online 🟢 !</h4>
 
 ---
@@ -18,6 +17,6 @@
 		</a>
 	</p>
 	<p>
-		<b>ハヴェニア | Havenia | هافينيا. A peaceful place for everyone (SFW 13+). Multilingual haven, LGBTQAI+ Friendly community 🦋</b>
+		<b>Fun fact 🤓☝🏻 : One day havenia was just a dream from a kid want to be in a place</b>
 	</p>
 </div>
