@@ -17,6 +17,6 @@
 		</a>
 	</p>
 	<p>
-		<b>Fun fact 🤓☝🏻 : One day havenia was just a dream from a kid want to be in a place</b>
+		<b>Cute fact 🤓☝🏻 : One day havenia was just a dream from a kid</b>
 	</p>
 </div>
