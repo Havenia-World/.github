@@ -1,8 +1,8 @@
 # The Official Havenia GitHub Account, Hi World !
 
-<h3> 
+<h1> 
  ハヴェニア | Havenia | هافينيا. A peaceful place for everyone (SFW 13+). Multilingual haven, LGBTQAI+ Friendly community 🦋
-</h3>
+</h1>
 
 ---
 
