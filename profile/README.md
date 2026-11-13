@@ -5,10 +5,19 @@
 ---
 
 <h5> 
- ハヴェニア | Havenia | هافينيا. A peaceful place for everyone (SFW 13+). Multilingual haven, LGBTQAI+ Friendly community 🦋
+ We host all our files here because it’s easier to do stuff and manage it 🤓
 </h5>
 
 ---
 
-**We host all our files here because it’s easier to do stuff and manage it 🤓**
----
+<div align="center">
+	<br />
+	<p>
+		<a href="https://discord.gg/J2tb7d9tKh">
+			<img src="https://velrosy.xyz/hav/GIF_20260724_223131_984.gif" width="546" alt="Havenia" />
+		</a>
+	</p>
+	<p>
+		<b>ハヴェニア | Havenia | هافينيا. A peaceful place for everyone (SFW 13+). Multilingual haven, LGBTQAI+ Friendly community 🦋</b>
+	</p>
+</div>
