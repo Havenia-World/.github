@@ -1,11 +1,16 @@
-# The Official Havenia GitHub Account
-<h4>Hello World Havenia#2025-present is Online 🟢 !</h4>
+<div align="center">
+
+  # 🌟 The Official Havenia Hub
+  
+  <p><code>Hello World! Havenia (2025 – Present) is Online 🟢</code></p>
+
+</div>
 
 ---
 
-<h5> 
- We host all our files here because it’s easier to do stuff and manage it 🤓
-</h5>
+<div align="center">
+  <p><em>"We host all our project files here because it’s easier to manage everything in one central space! 🤓"</em></p>
+</div>
 
 ---
 
@@ -17,6 +22,6 @@
 		</a>
 	</p>
 	<p>
-		<b>Cute fact 🤓☝🏻 : One day havenia was just a dream from a kid</b>
+		<b>✨ Cute fact 🤓☝🏻 : One day Havenia was just a dream from a kid.</b>
 	</p>
 </div>
