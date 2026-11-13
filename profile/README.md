@@ -6,4 +6,4 @@
 
 ---
 
-**We host all our files here because it’s easier to do stuff and manage it**
+**We host all our files here because it’s easier to do stuff and manage it 🤓**
