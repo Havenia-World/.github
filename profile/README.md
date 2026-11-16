@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🌟 The Official Havenia Hub
+   <img src="https://velrosy.xyz/hav/HavLogo.jpg" width="20" /> The Official Havenia Hub
   
   <p><code>Hello World! Havenia (2025 – Present) is Online 🟢</code></p>
 
