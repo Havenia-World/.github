@@ -1,6 +1,13 @@
 <div align="center">
 
-   <img src="https://velrosy.xyz/hav/HavLogo.jpg" width="20" /> The Official Havenia Hub
+   # The Official Havenia GitHub Account 
+
+   <div align="right">
+	<br />
+	<p>		
+			<img src="https://velrosy.xyz/hav/1487902582277144666.webp" alt="Hii" />
+	</p>
+</div>
   
   <p><code>Hello World! Havenia (2025 – Present) is Online 🟢</code></p>
 
@@ -9,7 +16,7 @@
 ---
 
 <div align="center">
-  <p><em>"We host all our project files here because it’s easier to manage everything in one central space! 🤓"</em></p>
+  <p><em>"We host all our project files here because it’s easier to manage everything in one space 🤓☝🏻"</em></p>
 </div>
 
 ---
