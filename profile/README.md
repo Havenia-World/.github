@@ -18,7 +18,7 @@
 	<br />
 	<p>
 		<a href="https://discord.gg/J2tb7d9tKh">
-			<img src="https://velrosy.xyz/hav/GIF_20260724_223131_984.gif" width="546" alt="Havenia" />
+			<img src="https://velrosy.xyz/hav/HaveniaBanner.webp" width="546" alt="Havenia" />
 		</a>
 	</p>
 	<p>
