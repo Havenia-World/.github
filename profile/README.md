@@ -18,10 +18,20 @@
 	<br />
 	<p>
 		<a href="https://discord.gg/J2tb7d9tKh">
-			<img src="https://velrosy.xyz/hav/HaveniaBanner.webp" width="546" alt="Havenia" />
+			<img src="https://velrosy.xyz/hav/HaveniaBanner.webp" width="546" alt="Havenia Banner" />
 		</a>
 	</p>
 	<p>
 		<b>✨ Cute fact 🤓☝🏻 : One day Havenia was just a dream from a kid.</b>
+	</p>
+</div>
+
+
+<div align="center">
+	<br />
+	<p>
+		<a href="https://discord.gg/J2tb7d9tKh">
+			<img src="https://velrosy.xyz/hav/HavLine.webp" alt="Havenia Line" />
+		</a>
 	</p>
 </div>
