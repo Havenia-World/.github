@@ -5,7 +5,7 @@
    <div align="right">
 	<br />
 	<p>		
-			<img src="https://velrosy.xyz/hav/1487902582277144666.webp" width="600" alt="Hii" />
+			<img src="https://velrosy.xyz/hav/1487902582277144666.webp" width="58" alt="Hii" />
 	</p>
 </div>
   
