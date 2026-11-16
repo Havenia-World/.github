@@ -22,7 +22,7 @@
 		</a>
 	</p>
 	<p>
-		<b>✨ Cute fact 🤓☝🏻 : One day Havenia was just a dream from a kid.</b>
+		<b>One day Havenia was just a a discord server for me and my friends.</b>
 	</p>
 </div>
 
